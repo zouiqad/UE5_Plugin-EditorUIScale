@@ -13,7 +13,7 @@ This plugin simplifies the process of adjusting the size of the editor's UI, a f
 OR
 
 - From the .RAR
-  - Download the .rar file from the provided link.
+  - Download the source code from [this link](https://github.com/zouiqad/UE5_Plugin-EditorUIScale/releases/latest)
   - Extract the contents of the .rar file into the `Plugins folder` of your Unreal Engine project.
  
 Restart and enable the Unreal Engine Editor to see the plugin in action.
