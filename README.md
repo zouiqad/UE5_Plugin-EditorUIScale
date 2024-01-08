@@ -7,8 +7,9 @@ This plugin simplifies the process of adjusting the size of the editor's UI, a f
 # How to install
 
 - Clone Repository
-  - Open the terminal and navigate to the `Plugins` folder of your Unreal Engine project.
+  - Open the terminal and navigate to the `Plugins` folder of your Unreal Engine project (make sure your project has a `Plugins` folder, if not create one at root directory).
   - Run `git clone https://github.com/zouiqad/UE5_Plugin-EditorUIScale`.
+  - Restart the editor and rebuild the plugin if necessary.
 
 OR
 
